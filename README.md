@@ -44,7 +44,7 @@ Quick summary of the data exploration process:
 - **member_casual**: there are two types of members – casual and members. The total number of memberships is equal to the total number of rows, therefore there are no null values in this column
 
 ### Data cleaning 
-Now that I am done with the data exploration process, I know which columns needs to be cleaned and which new columns can be created from this data to assist me further in the analysis. My data cleaning process can be viewed here on Github. Here is a snapshot of the first query of cleaning: 
+Now that I am done with the data exploration process, I know which columns needs to be cleaned and which new columns can be created from this data to assist me further in the analysis. My data cleaning process can be viewed [here](https://github.com/tanviajmera/Google-Data-Analytics-Capstone-Project---Cyclistic-Bike-Case-Study/blob/main/Data%20cleaning.sql) on Github. Here is a snapshot of the first query of cleaning: 
 
 ![Screenshot 2025-01-13 115350](https://github.com/user-attachments/assets/c957d841-2497-4219-bdc3-15b55e5ca02f)
 
