@@ -30,7 +30,7 @@ The steps taken in the processing of the data are as follows:
 ![Screenshot 2025-01-11 112824](https://github.com/user-attachments/assets/a6abb048-da41-4660-a376-ca6517f98d7d)
 
 ### Data Exploration
-I analysed all columns from left to right by running queries and making notes of any column that needed cleaning. The queries of data exploration can be found [here](https://github.com/tanviajmera/Google-Data-Analytics-Capstone-Project---Cyclistic-Bike-Case-Study/blob/main/Data%20exploration.sql) on GitHub. Following is a snapshot of the query run for the first column: 
+I analysed all columns from left to right by running queries and making notes of any column that needed cleaning. The queries of data exploration can be found [here](https://github.com/tanviajmera/Google-Data-Analytics-Capstone-Project---Cyclistic-Bike-Case-Study/blob/main/02_Data%20exploration.sql) on GitHub. Following is a snapshot of the query run for the first column: 
 
 ![Screenshot 2025-01-12 173836](https://github.com/user-attachments/assets/b0832f0f-9d33-4641-992a-9fd18e990f54)
 
@@ -44,7 +44,7 @@ Quick summary of the data exploration process:
 - **member_casual**: there are two types of members – casual and members. The total number of memberships is equal to the total number of rows, therefore there are no null values in this column
 
 ### Data cleaning 
-Now that I am done with the data exploration process, I know which columns needs to be cleaned and which new columns can be created from this data to assist me further in the analysis. My data cleaning process can be viewed [here](https://github.com/tanviajmera/Google-Data-Analytics-Capstone-Project---Cyclistic-Bike-Case-Study/blob/main/Data%20cleaning.sql) on Github. Here is a snapshot of the first query of cleaning: 
+Now that I am done with the data exploration process, I know which columns needs to be cleaned and which new columns can be created from this data to assist me further in the analysis. My data cleaning process can be viewed [here](https://github.com/tanviajmera/Google-Data-Analytics-Capstone-Project---Cyclistic-Bike-Case-Study/blob/main/03_Data%20cleaning.sql) on Github. Here is a snapshot of the first query of cleaning: 
 
 ![Screenshot 2025-01-13 115350](https://github.com/user-attachments/assets/c957d841-2497-4219-bdc3-15b55e5ca02f)
 
