@@ -62,7 +62,7 @@ A summary of the cleaning steps is as follows:
 ## Analyze and Share
 Now that my data is clean and prepared for analysis, it is time to analyze the data and answer the question: **“How do annual members and casual members use bikes differently?”**. 
 
-The ‘new_tripdata’ table created in MySQL was exported to my file directory and later imported into Tableau Public to proceed further in the analysis. To illustrate how casual riders and annual members use the bike differently, I created a visualization. The Tableau dashboard can be found here. 
+The ‘new_tripdata’ table created in MySQL was exported to my file directory and later imported into Tableau Public to proceed further in the analysis. To illustrate how casual riders and annual members use the bike differently, I created a visualization. The Tableau dashboard can be found [here](https://public.tableau.com/app/profile/tanvi.ajmera4535/viz/Cyclistic_bike_share_17383586006950/Dashboard1?publish=yes). 
 
 Below are the summary insights of the visualizations from the dashboard. This will assist me in analyzing and answering the business question. 
 
