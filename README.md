@@ -96,7 +96,7 @@ From the above line chart, it is clear that members had a higher usage of bikes 
 
 ## Act 
 
-Key takeaways: Key takeaways: 
+Key takeaways:
 - There was an almost equal distribution of casual riders between classic and electric bikes. Whereas, members prefer classic bikes over electric. 
 - The casual users tend to use the bike for leisure purposes, mostly on weekends. On the other hand, members use it for daily commute on weekdays.
 - Both annual and casual users have a high demand for the bike around 5 pm. Therefore, there are chances of a shortage of bikes during that time. 
